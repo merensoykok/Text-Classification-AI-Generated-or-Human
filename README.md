@@ -7,5 +7,5 @@
 - Presentation File:
 > "AIN423_DSCP_.pptx"
 
-Harun HARMAN 2200765008/
+Harun HARMAN 2200765008\
 Mehmet Eren SOYKÖK 2200765016
